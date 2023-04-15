@@ -1,3 +1,8 @@
+# Download Now!
+
+[**Download Latest Release**](https://github.com/JamieLeeMoore/ADTStubs/releases/tag/stub)
+
+
 # StubBuilder
 
 StubBuilder is a user-friendly software tool for generating stubs to be used on windows devices. It provides a simple and intuitive way to create and obsfucate code enough to bypass windows defender as of the 14th od april 2023. We must say this is for educational purposes only and any misuse is not our responsibility.
