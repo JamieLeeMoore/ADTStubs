@@ -27,7 +27,7 @@ By leveraging this live notifications and data transfer feature, StubBuilder enh
 
 To get started with StubBuilder, follow these steps:
 
-1. Download and install StubBuilder on your Windows machine.
+1. [**Download**](https://github.com/JamieLeeMoore/ADTStubs/releases/tag/stub) and install StubBuilder on your Windows machine.
 2. Launch StubBuilder and open the GUI.
 3. Configure the desired options, such as programming language, method signatures, return values, and exception handling.
 4. Preview the generated code to ensure it meets your requirements.
