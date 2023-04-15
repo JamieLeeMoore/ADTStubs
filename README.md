@@ -1,6 +1,6 @@
 # Download Now!
 
-[**Download Latest Release Here**](https://github.com/JamieLeeMoore/ADTStubs/releases/tag/stub)
+[**Download Latest Release Here**](https://github.com/JamieLeeMoore/StubBuilder/releases/tag/stub)
 
 
 # StubBuilder
